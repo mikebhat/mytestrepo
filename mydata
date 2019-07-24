@@ -1,0 +1,22 @@
+[muralidh@server1 gitrepo]$ ls
+[muralidh@server1 gitrepo]$ cd ^C
+[muralidh@server1 gitrepo]$ mkdir mytestrepo
+[muralidh@server1 gitrepo]$ cd mytestrepo/
+[muralidh@server1 mytestrepo]$ git init
+Initialized empty Git repository in /home/muralidh/gitrepo/mytestrepo/.git/
+[muralidh@server1 mytestrepo]$ cd ..
+[muralidh@server1 gitrepo]$ rm -rf mytestrepo
+[muralidh@server1 gitrepo]$ mkdir mytestrepo
+[muralidh@server1 gitrepo]$ cd mytestrepo/
+[muralidh@server1 mytestrepo]$ git init mytestrepo
+Initialized empty Git repository in /home/muralidh/gitrepo/mytestrepo/mytestrepo/.git/
+[muralidh@server1 mytestrepo]$ ls
+mytestrepo
+[muralidh@server1 mytestrepo]$ cd ..
+[muralidh@server1 gitrepo]$ rm -rf mytestrepo
+[muralidh@server1 gitrepo]$ cd mytestrepo/
+-bash: cd: mytestrepo/: No such file or directory
+[muralidh@server1 gitrepo]$ mkdir mytestrepo
+[muralidh@server1 gitrepo]$ cd mytestrepo/
+[muralidh@server1 mytestrepo]$ git init
+Initialized empty Git repository in /home/muralidh/gitrepo/mytestrepo/.git/
