@@ -1,0 +1,17 @@
+rfdata_root                                                          systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-bolt.service-5StBQu          vmware-root_8812-3100785972
+jetty-0.0.0.0-8080-war-_-any-1612931331831653015.dir                     systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-chronyd.service-mHlzVO       vmware-root_976-2966103375
+jna7164250601207435156jar                                                systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-colord.service-bsQhTC        VMwareTools-10.1.6-5214329.tar
+manifest.txt                                                             systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-cups.service-WkDDeZ          vmware-tools-distrib
+run_upgrader.sh                                                          systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-fwupd.service-nZy0DF         vmware-tools-upgrader-32
+ssh-9Jk1Q30j2dkO                                                         systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-httpd.service-of2iKR         vmware-tools-upgrader-64
+systemd-private-943e43a45c3d444aabfab100fcd65b1e-bolt.service-eZ1RaF     systemd-private-d2ca0bacc70e4c74b078c4facec7e5bb-rtkit-daemon.service-7ekQ7J  winstone6037569496956985390.jar
+systemd-private-943e43a45c3d444aabfab100fcd65b1e-chronyd.service-WKj8bB  Temp-e1e4ac55-a0bc-4bf1-8909-11a3c8c1af79                                     yum_save_tx.2019-07-23.10-26.doenO1.yumtx
+systemd-private-943e43a45c3d444aabfab100fcd65b1e-colord.service-3OX8G1   test
+[muralidh@server1 tmp]$ cd test/
+[muralidh@server1 test]$ ls
+data1  data2  data3  data4
+[muralidh@server1 test]$ cd
+[muralidh@server1 ~]$ cd gitrepo/
+[muralidh@server1 gitrepo]$ ls
+copy.sh  mytestrepo
+
